@@ -1,13 +1,13 @@
-Realtime News Web App
-This is a simple web application for fetching and displaying realtime news. It is built using HTML, CSS, and JavaScript.
+# Realtime News Web App
+# This is a simple web application for fetching and displaying realtime news. It # is built using HTML, CSS, and JavaScript.
 
-Features
-Realtime News: Get the latest news updates as they happen.
-Responsive Design: The application is designed to work seamlessly on various devices and screen sizes.
-Simple and Intuitive Interface: Easy-to-use interface for browsing news articles.
-Technologies Used
-HTML: Markup language for structuring the content of the web pages.
-CSS: Styling language used to enhance the appearance of the web pages.
+# Features
+# Realtime News: Get the latest news updates as they happen.
+# Responsive Design: The application is designed to work seamlessly on various # devices and screen sizes.
+# Simple and Intuitive Interface: Easy-to-use interface for browsing news # articles.
+# Technologies Used
+# HTML: Markup language for structuring the content of the web pages.
+# CSS: Styling language used to enhance the appearance of the web pages.
 JavaScript: Programming language used for dynamic behavior and interactivity of the web application.
 Getting Started
 To run the application locally, follow these steps:
