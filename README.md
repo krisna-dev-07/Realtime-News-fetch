@@ -26,8 +26,8 @@ Upon opening the index.html file in your web browser, the app will automatically
 Click on any news headline to read the full article.
 
 ## Technologies Used
-HTML
-CSS
-JavaScript
+**1.HTML**
+2.CSS
+3.JavaScript
 ## Credits
 News API: https://example.com/news-api
