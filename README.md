@@ -33,5 +33,5 @@ Click on any news headline to read the full article.
 News API: https://example.com/news-api
 
 # NOTE:
-## if this error is shown "request from the browser are not allowed on the devloper plan except from local host" then  the API you're trying to access has restrictions in place that prevent requests from being made directly from the browser, except when the application is running on localhost.It means the API used is run only in the local host server.Solution might be yoy can generate your own API KEY from NewsApi.com and add it to your code.
+## if this error is shown "request from the browser are not allowed on the devloper plan except from local host" then  the API you're trying to access has restrictions in place that prevent requests from being made directly from the browser, except when the application is running on localhost.It means the API used is run only in the local host server.Solution might be you can generate your own API KEY from NewsApi.com and add it to your code.
 
